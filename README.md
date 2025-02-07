@@ -1,6 +1,6 @@
 # Instructions
 
-- Clone the repository once by running : `git clone https://github.com/0xmetaschool/Building-on-Aptos-boilerplate.git`
+- Clone the repository once by running : `git clone https://github.com/thuong9372/building-on-aptos-boilerplate.git`
 - cd into the projector folder by running `cd Building-on-Aptos`
 - Multiple branches are already present containing code for the required lessons.
 - fetch all the branches by running `git fetch --all`
